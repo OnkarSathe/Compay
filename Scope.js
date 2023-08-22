@@ -14,3 +14,5 @@ var myName="h";
 // f1();
 
 console.log("Access in global scope success - "+myName);
+
+// this is new line 
